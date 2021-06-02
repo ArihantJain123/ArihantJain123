@@ -47,3 +47,6 @@
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arihantjain123&show_icons=true&locale=en" alt="arihantjain123" /></p>
 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arihantjain123&" alt="arihantjain123" /></p>
+<br>
+
