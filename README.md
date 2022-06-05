@@ -4,7 +4,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantjain123&label=Profile%20views&color=0e75b6&style=flat" alt="arihantjain123" /> </p>
 <p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="200px" height="35px"><br><br>
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="200px" height="350px"><br><br>
 </p>
 
 
