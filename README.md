@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px" height="35px">Hi there, I'm Arihant Jain 👨‍💻
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" height="35px">Hi there, I'm Arihant Jain 👨‍💻
 ## I'm a  MERN Stack Developer
 
 <br>
