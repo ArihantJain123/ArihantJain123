@@ -4,12 +4,12 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantjain123&label=Profile%20views&color=0e75b6&style=flat" alt="arihantjain123" /> </p>
 <p align="center">
-<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
+<br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="200px" height="35px"><br><br>
 </p>
 
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> &nbsp;About Me 
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" > &nbsp;About Me 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 - 🏦 I am pursuing my bachelors in **Computer Science Engineering.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
