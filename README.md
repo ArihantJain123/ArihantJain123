@@ -49,7 +49,7 @@
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px' height="35px"> My Github Stats:
 
-<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true' width='25px'>&nbsp;
+<img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif?raw=true' width='25px' height="35px">&nbsp;
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arihantjain123&show_icons=true&locale=en&layout=compact" alt="arihantjain123" /></p>
 <br>
