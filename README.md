@@ -10,7 +10,7 @@
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" > &nbsp;About Me 
-<img align="right" alt="GIF" height="60px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<img align="right" alt="GIF" height="60px" width="150px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
 - 🏦 I am pursuing my bachelors in **Computer Science Engineering.** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I am passionate about **Web Develpment and making Open Source Contributions.**
