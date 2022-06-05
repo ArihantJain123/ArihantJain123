@@ -2,7 +2,7 @@
 ## I'm a  MERN Stack Developer
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantjain123&label=Profile%20views&color=0e75b6&style=flat" alt="arihantjain123" width="25px" height="35px"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arihantjain123&label=Profile%20views&color=0e75b6&style=flat" alt="arihantjain123" /> </p>
 <p align="center">
 <br><img src="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif" width="280px"><br><br>
 </p>
