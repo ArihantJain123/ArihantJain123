@@ -24,9 +24,9 @@
 
 
 - ⚡ Fun fact **I think I am Funny**
-- 👨‍💻 Portfolio [https://arihantjain123.github.io/ARIHANT-Portfolio/](https://arihantjain123.github.io/ARIHANT-Portfolio/)
+- 👨‍💻 Portfolio [https://arihantjain123.github.io/Portfolio/](https://arihantjain123.github.io/Portfolio/)
 
-- 📄 Resume [https://drive.google.com/file/d/1d7ci2RkJwemnyy6GHXzPeAMrKTAiKVpP/view?usp=drivesdk](https://drive.google.com/file/d/1d7ci2RkJwemnyy6GHXzPeAMrKTAiKVpP/view?usp=drivesdk)
+- 📄 Resume [https://drive.google.com/file/d/1FQ_U_7B4xh6QmQYKSOV7SDxeAtxfG0Dx/view](https://drive.google.com/file/d/1FQ_U_7B4xh6QmQYKSOV7SDxeAtxfG0Dx/view)
 
 <br>
 
